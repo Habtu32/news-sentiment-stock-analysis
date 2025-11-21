@@ -1,0 +1,14 @@
+jupyterlab
+notebook
+pandas>=1.5
+numpy
+matplotlib
+seaborn
+yfinance
+pandas_ta
+vaderSentiment
+textblob
+nltk
+scikit-learn
+black       # optional: code formatter
+pre-commit  # optional
