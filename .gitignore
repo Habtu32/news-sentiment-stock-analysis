@@ -14,6 +14,7 @@ Thumbs.db
 
 # Data files (optional, if too large)
 data/*.csv
+newsData/*.csv
 
 # Logs
 *.log
